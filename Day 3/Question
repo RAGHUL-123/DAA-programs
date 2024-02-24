@@ -1,0 +1,20 @@
+
+UNIT-III
+
+DYNAMIC PROGRAMMING
+1.	Write a c program for knapsack problem using dynamic programming
+2.	Using Dynamic programming concept to find out Optimal binary search tree.
+3.	Using Dynamic programming techniques to find binomial coefficient of a given number
+4.	Write a program to find the reverse of a given number using recursive.
+5.	Write a program to find the perfect number.
+6.	Write a program to perform a travelling salesman problem using dynamic programming
+7.	Write a program for the given pattern using recursion
+8.	If n=4                                                              1
+                                                                  1   2
+                                                                  1   2    3
+                                                                  1   2    3    4
+9.	Write a program to perform Floyd’s algorithm
+10.	Write a program for pascal triangle.
+11.	Write a program to find the optimal cost by using appropriate algorithm	
+
+
